@@ -12,7 +12,7 @@
 
  - [Spring Boot Mastery](https://drive.google.com/file/d/19VkY4BNZJhjD6f8GuR1JTgiCxUpXWIWq/view?usp=drive_link)
  
- - [Google UI/UX](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [Google UI/UX](https://drive.google.com/file/d/19HgSQH5Miv6gB4JwGuxAbFo1lW7yvfZ_/view?usp=sharing)
 
 
 <h2>📺 Popular YouTube Videos</h2>
