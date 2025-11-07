@@ -1,4 +1,10 @@
 <h1>Hi, I'm Meshack! <br/>
+<p> a passionate **Software Engineer** dedicated to building impactful and innovative solutions.  
+I enjoy transforming ideas into functional software through **clean code**, **thoughtful design**, and **critical thinking**.  
+
+I’m driven by a vision to use technology to transform lives — especially across **Africa and the world**.  
+Currently, I’m exploring **backend development**, **AI**, and **UX design**, while continuously improving my craft through hands-on projects and collaboration.  
+</p>
 
 <h2>👨‍💻 Software Engineering Projects:</h2>
 
