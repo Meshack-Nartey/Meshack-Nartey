@@ -39,9 +39,9 @@ I’m deeply passionate about **open-source collaboration**, **research**, and *
 
 <h2> 🤳 Connect with me:</h2>
 
-[LinkedIn](www.linkedin.com/in/meshacknartey)
-[Email](narteykwamemeshack@gmail.com)
-[X]( https://x.com/mesh_asher?s=21)
+-[LinkedIn](www.linkedin.com/in/meshacknartey)
+-[Email](narteykwamemeshack@gmail.com)
+-[X]( https://x.com/mesh_asher?s=21)
 
 
 
