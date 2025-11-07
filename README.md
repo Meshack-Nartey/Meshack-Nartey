@@ -5,7 +5,7 @@
  - [Paymii](https://github.com/paymii90/Paymii)
  - [Shuttle Smart](https://github.com/joshmadakor1/APracticelgorithms-)
  - [Spring API Development](https://github.com/Meshack-Nartey/Spring-APIs-Development)
- - [Dependency In Springboot-Calculator App](https://github.com/Meshack-Nartey/Calculator_App_Using_Dependency_Injection)
+ - [Dependency Injection In Springboot-Calculator App](https://github.com/Meshack-Nartey/Calculator_App_Using_Dependency_Injection)
  - [Bank Application](https://github.com/Meshack-Nartey/Bank-App)
 
 <h2>📃 Certifications</h2>
