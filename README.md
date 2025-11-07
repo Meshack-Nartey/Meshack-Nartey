@@ -28,6 +28,7 @@ I’m deeply passionate about **open-source collaboration**, **research**, and *
 
 
  <h2>Technical Skills</h2>
+ 
 - **Languages:** Java, C++, JavaScript, HTML, CSS  
 - **Frameworks & Tools:** Spring Boot, Figma, Git & GitHub  
 - **Databases:** MySQL, PostgreSQL,  
