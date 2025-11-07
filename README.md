@@ -31,21 +31,19 @@ I’m deeply passionate about **open-source collaboration**, **research**, and *
  
 - **Languages:** Java, C++, JavaScript, HTML, CSS  
 - **Frameworks & Tools:** Spring Boot, Figma, Git & GitHub  
-- **Databases:** MySQL, PostgreSQL,  
-- **Cloud & DevOps:** Microsoft Azure GitHub Actions  
+- **Databases:** MySQL, PostgreSQL  
+- **Cloud & DevOps:** Microsoft Azure, GitHub Actions  
 - **Core Concepts:** OOP, RESTful APIs, Data Structures & Algorithms, UI/UX Design, Research & Problem Solving  
    
 
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="MeshackNartey | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="MeshackNartey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MeshackNartey | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[LinkedIn](www.linkedin.com/in/meshacknartey)
+[Email](narteykwamemeshack@gmail.com)
+[X]( https://x.com/mesh_asher?s=21)
 
 
-[twitter]: https://x.com/mesh_asher?s=21
-[linkedin]: www.linkedin.com/in/meshacknartey
-[gmail]: narteykwamemeshack@gmail.com
+
 
 
