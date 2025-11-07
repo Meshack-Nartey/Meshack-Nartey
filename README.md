@@ -1,13 +1,14 @@
 I’m **Meshack Kwame Nartey**, a **Software Engineer** passionate about building impactful and user-centered solutions that address real-world challenges.  
-Currently, I focus on **backend development** and **AI-driven applications**, designing and developing systems that combine efficiency, scalability, and great user experience.
+Currently, I’m interning with **AmaliTech** as a **Backend Developer**, where I’m gaining hands-on experience in backend technologies, API design, and scalable software development.
 
-Before venturing into software engineering professionally, I served as a **UI/UX Designer**, where I learned to approach technology from the user’s perspective — understanding pain points and designing intuitive experiences. This background continues to shape my development process today.
+I’ve worked on several projects involving **Java**, **Spring Boot**, and **RESTful APIs**, including building a **console-based banking system**, designing a **car-tracking mobile app for campus**, contributing to **Paymii**, a crypto wallet platform, and developing **Shuttl Smart**, a system designed to optimize campus transportation.  
 
-I’ve worked on several projects involving **Java**, **Spring Boot**, and **RESTful APIs**, including building a console-based banking system, designing a car-tracking mobile app for campus, and developing solutions in areas like **traffic optimization** and **agritech prediction systems**.
+I’ve also conducted research on **Buddy Guard**, a project that explores innovative approaches to safety and monitoring solutions.  
 
-Beyond coding, I’m deeply committed to **ethical and transformative leadership**, **community impact**, and using technology to empower underrepresented individuals across Africa and beyond.
+Before focusing fully on software engineering, I worked as a **UI/UX Designer**, an experience that shaped my approach to development — blending functionality with intuitive user experience.  
 
-I love **open-source collaboration**, **research**, and **creating solutions that truly make a difference**.
+I’m deeply passionate about **open-source collaboration**, **research**, and **creating technology that empowers individuals and communities** across Africa and beyond.
+
 
 ---
 
