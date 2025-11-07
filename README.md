@@ -37,11 +37,13 @@ I’m deeply passionate about **open-source collaboration**, **research**, and *
    
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2>📬 Connect with me</h2>
 
--[LinkedIn](www.linkedin.com/in/meshacknartey)
--[Email](narteykwamemeshack@gmail.com)
--[X]( https://x.com/mesh_asher?s=21)
+<p>
+  <a href="https://www.linkedin.com/in/meshacknartey">LinkedIn</a><br>
+  <a href="mailto:narteykwamemeshack@gmail.com">Email</a><br>
+  <a href="https://x.com/mesh_asher?s=21">X (Twitter)</a>
+</p>
 
 
 
