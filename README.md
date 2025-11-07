@@ -10,7 +10,7 @@
 
 <h2>📃 Certifications</h2>
 
- - [Spring Boot Mastery](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [Spring Boot Mastery](https://drive.google.com/file/d/19VkY4BNZJhjD6f8GuR1JTgiCxUpXWIWq/view?usp=drive_link)
  
  - [Google UI/UX](https://github.com/joshmadakor1/Algorithms-Practice)
 
