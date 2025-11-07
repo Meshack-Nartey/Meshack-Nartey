@@ -1,10 +1,15 @@
-<h1>Hi, I'm Meshack! <br/>
-<p> a passionate Software Engineer dedicated to building impactful and innovative solutions.  
- I enjoy transforming ideas into functional software through clean code,thoughtful design,and critical thinking.  
+I’m **Meshack Kwame Nartey**, a **Software Engineer** passionate about building impactful and user-centered solutions that address real-world challenges.  
+Currently, I focus on **backend development** and **AI-driven applications**, designing and developing systems that combine efficiency, scalability, and great user experience.
 
-I’m driven by a vision to use technology to transform lives — especially across **Africa and the world**.  
-Currently, I’m exploring *backend development*, *AI*, and *UX design*, while continuously improving my craft through hands-on projects and collaboration.  
-</p>
+Before venturing into software engineering professionally, I served as a **UI/UX Designer**, where I learned to approach technology from the user’s perspective — understanding pain points and designing intuitive experiences. This background continues to shape my development process today.
+
+I’ve worked on several projects involving **Java**, **Spring Boot**, and **RESTful APIs**, including building a console-based banking system, designing a car-tracking mobile app for campus, and developing solutions in areas like **traffic optimization** and **agritech prediction systems**.
+
+Beyond coding, I’m deeply committed to **ethical and transformative leadership**, **community impact**, and using technology to empower underrepresented individuals across Africa and beyond.
+
+I love **open-source collaboration**, **research**, and **creating solutions that truly make a difference**.
+
+---
 
 <h2>👨‍💻 Software Engineering Projects:</h2>
 
