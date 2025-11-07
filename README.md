@@ -27,6 +27,10 @@ I’m deeply passionate about **open-source collaboration**, **research**, and *
  - [Google UI/UX](https://drive.google.com/file/d/19HgSQH5Miv6gB4JwGuxAbFo1lW7yvfZ_/view?usp=sharing)
 
 
+ <h2>Technical Skills</h2>
+   
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="MeshackNartey | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
